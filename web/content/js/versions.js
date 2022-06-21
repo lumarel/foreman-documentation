@@ -9,11 +9,11 @@ const navVersions = [
         guides: [
           {
             title: "Release Notes",
-            path: "Release_notes"
+            path: "Release_Notes"
           },
           {
             title: "Quickstart Guide",
-            path: "Quickstart_Guide"
+            path: "Quickstart"
           },
           {
             title: "Installing Foreman Server",
@@ -25,11 +25,11 @@ const navVersions = [
           },
           {
             title: "Deploying Foreman on AWS",
-            path: "Deploying_on_AWS"
+            path: "Deploying_Project_on_AWS"
           },
           {
             title: "Provisioning Guide",
-            path: "Provisioning_Guide"
+            path: "Provisioning_Hosts"
           },
           {
             title: "Configuring Foreman to use Ansible",
@@ -45,11 +45,11 @@ const navVersions = [
           },
           {
             title: "Administering Foreman",
-            path: "Administering_Red_Hat_Satellite"
+            path: "Administering_Project"
           },
           {
             title: "Application Centric Deployment",
-            path: "Application_Centric_Deployment"
+            path: "Deploying_Hosts_AppCentric"
           }
         ]
       },
@@ -59,11 +59,11 @@ const navVersions = [
         guides: [
           {
             title: "Release Notes",
-            path: "Release_notes"
+            path: "Release_Notes"
           },
           {
             title: "Quickstart Guide",
-            path: "Quickstart_Guide"
+            path: "Quickstart"
           },
           {
             title: "Installing Foreman Server",
@@ -71,11 +71,11 @@ const navVersions = [
           },
           {
             title: "Deploying Foreman on AWS",
-            path: "Deploying_on_AWS"
+            path: "Deploying_Project_on_AWS"
           },
           {
             title: "Provisioning Guide",
-            path: "Provisioning_Guide"
+            path: "Provisioning_Hosts"
           },
           {
             title: "Configuring Foreman to use Ansible",
@@ -87,7 +87,7 @@ const navVersions = [
           },
           {
             title: "Administering Foreman",
-            path: "Administering_Red_Hat_Satellite"
+            path: "Administering_Project"
           }
         ]
       },
@@ -97,15 +97,15 @@ const navVersions = [
         guides: [
           {
             title: "Release Notes",
-            path: "Release_notes"
+            path: "Release_Notes"
           },
           {
             title: "Planning Guide",
-            path: "Planning_Guide"
+            path: "Planning_for_Project"
           },
           {
             title: "Quickstart Guide",
-            path: "Quickstart_Guide"
+            path: "Quickstart"
           },
           {
             title: "Installing Katello Server",
@@ -129,7 +129,7 @@ const navVersions = [
           },
           {
             title: "Content Management Guide",
-            path: "Content_Management_Guide"
+            path: "Managing_Content"
           },
           {
             title: "Converting a Host to RHEL",
@@ -137,11 +137,11 @@ const navVersions = [
           },
           {
             title: "Deploying Foreman on AWS",
-            path: "Deploying_on_AWS"
+            path: "Deploying_Project_on_AWS"
           },
           {
             title: "Provisioning Guide",
-            path: "Provisioning_Guide"
+            path: "Provisioning_Hosts"
           },
           {
             title: "Configuring Foreman to use Ansible",
@@ -157,11 +157,11 @@ const navVersions = [
           },
           {
             title: "Administering Foreman",
-            path: "Administering_Red_Hat_Satellite"
+            path: "Administering_Project"
           },
           {
             title: "Application Centric Deployment",
-            path: "Application_Centric_Deployment"
+            path: "Deploying_Hosts_AppCentric"
           }
         ]
       }
